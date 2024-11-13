@@ -69,6 +69,7 @@
     </style>
 </head>
 <body>
+    <img src="" width="200" height="210">
     <div class="container">
         <div class="header">
             <div class="name">
